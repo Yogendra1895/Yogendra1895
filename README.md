@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yogendra Kumar Patel and I’m a data analyst who loves digging into data and turning it into useful insights. I enjoy solving problems, creating clean visuals, and making sense of messy datasets.
 - 👀 I’m interested in:
-     > Data storytelling with beautiful visualizations 📊
-     > Business problem-solving using SQL, Excel, Python, and Power BI 🔍
+     > Data storytelling with beautiful visualizations 
+     > Business problem-solving using SQL, Excel, Python, and Power BI 
 - 🌱 I’m currently learning:
      > Advanced SQL queries & optimization.  
      > Power BI dashboarding.  
